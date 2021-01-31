@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I love to develop games and explore new technologies
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play piano / drums
+- ⚡ Fun fact: I love to read books and play piano write blogs
 - ✔  I can code in C#, Javascipt, Typescript, Python
 - ✍ I write Tech articles [here.](https://medium.com/@kumarpranaw)
 
@@ -19,6 +19,7 @@
 [<img align="left" alt="kumarpranaw.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kumarpranaw.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kumarpranaw.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="kumarpranaw.com | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -66,3 +67,4 @@
 [youtube]: https://www.youtube.com/channel/UChip543_a2i_aML2KC7RepQ
 [instagram]: https://www.instagram.com/kr.pranaw
 [linkedin]: https://www.linkedin.com/in/pranav-kumar-verma
+[medium]: https://medium.com/@kumarpranaw
