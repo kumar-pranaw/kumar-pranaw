@@ -64,7 +64,6 @@
 
 ---
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/kumar-pranaw/count.svg?align=center)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=kumar-pranaw)  
  
