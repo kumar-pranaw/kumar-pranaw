@@ -63,6 +63,29 @@
 </details>
 
 ---
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/kumar-pranaw/count.svg?align=center)
+
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=kumar-pranaw)  
+ 
+ 
+ <hr>
+ 
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumar-pranaw&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
+
+---
+ 
+
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumar-pranaw&theme=react-dark)](https://github.com/kumar-pranaw/github-readme-activity-graph)
+
+  
+
+---
+  </code>
+</p>
+
 ### Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/kumar-pranaw/count.svg)
 
