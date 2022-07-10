@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I love to develop games and explore new technologies
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 oals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books and play piano write blogs
 - ✔  I can code in C#, Javascipt, Typescript, Python
 - ✍ I write Tech articles [here.](https://medium.com/@kumarpranaw)
